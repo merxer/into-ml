@@ -9,7 +9,7 @@ Introduction to machine learning
 
 # Create virtualenv for machine learning
 
-$ virtualenv mlenv
+$ virtualenv mlenv --python=/usr/local/bin/python3
 
 $ cd mlenv
 
