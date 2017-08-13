@@ -8,8 +8,11 @@ Introduction to machine learning
 
 
 # Create virtualenv for machine learning
+
 $ virtualenv mlenv
+
 $ cd mlenv
+
 $ source bin/activate
 
 
