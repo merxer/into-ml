@@ -24,4 +24,4 @@ $ pip3 install --upgrade jupyter matplotlib numpy pandas scipy scikit-learn
 $ python3 -c "import jupyter, matplotlib, numpy, pandas, scipy, sklearn"
 
 # Start jupyter notebook
-$ jupyter notebook
+$ ./bin/jupyter notebook
